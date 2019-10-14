@@ -1,5 +1,5 @@
 {
-  "name": "owllog-dedesctop",
+  "name": "owllog-desktop",
   "version": "0.0.1",
   "author": "Ahmed Meklad <ahmed.meklad.news@gmail.com>",
   "description": "An electron-vue project",
@@ -17,7 +17,7 @@
     "postinstall": ""
   },
   "build": {
-    "productName": "owllog-dedesctop",
+    "productName": "owllog-desktop",
     "appId": "owllog.io",
     "directories": {
       "output": "build"
